@@ -1,4 +1,3 @@
-
 ----------------------------------------------------
 Calculator Program User Manual
 ----------------------------------------------------
@@ -43,6 +42,3 @@ No installation is required to use the Calculator Program. Simply ensure that yo
 ## 8. Support:
 If you encounter any issues or have any questions regarding the Calculator Program, please contact https://DoMyProgrammingHomework.io for assistance.
 
-----------------------------------------------------
-
-That concludes the user manual for the Calculator Program. If you have any further questions or need additional assistance, please don't hesitate to ask.
