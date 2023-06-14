@@ -1,6 +1,6 @@
-----------------------------------------------------
-Calculator Program User Manual
-----------------------------------------------------
+
+# Calculator Program User Manual
+
 
 ## 1. Introduction:
 The Calculator Program is a command-line application that allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
