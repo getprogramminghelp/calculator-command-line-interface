@@ -39,6 +39,17 @@ No installation is required to use the Calculator Program. Simply ensure that yo
 - The program uses the Decimal class from the decimal module to handle decimal numbers with arbitrary precision. If decimal precision is not required, regular floating-point numbers (float) can be used instead.
 - The screen will be cleared after each calculation. You can press Enter to clear the previous screen and perform another calculation.
 
-## 8. Support:
+## 8. Screenshots:
+![Addition](add.png)
+
+![Subtraction ](sub.png)
+
+![Multiplication](mul.png)
+
+![Division](div.png)
+
+![Division](div1.png)
+
+## 9. Support:
 If you encounter any issues or have any questions regarding the Calculator Program, please contact https://DoMyProgrammingHomework.io for assistance.
 
